@@ -1,4 +1,4 @@
-# Deep Learning Project
+# Deep Learning Project - MNIST Classification
 
 > By Ahmad EL KAAKOUR and Matthieu RANDRIANTSOA
 
