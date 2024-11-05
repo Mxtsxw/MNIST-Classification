@@ -1,13 +1,15 @@
-# Projet - Apprentissage Profond
+# Deep Learning Project
 
-> Réalisé par Ahmad EL KAAKOUR et Matthieu RANDRIANTSOA
+> By Ahmad EL KAAKOUR and Matthieu RANDRIANTSOA
 
-Cette archive contient les fichiers nécessaires pour le projet d'apprentissage profond.
+This project explores various deep learning approaches to tackle the MNIST classification problem. We experimented with different model architectures, optimized them, and recorded their performance to compare results. The goal is to demonstrate the impact of different neural network designs and hyperparameters on model accuracy and efficiency.
 
-- Le rapport au format PDF
-- Les fichiers d'implémentation sous forme de notebook. Chaque partie contient son propre fichier.
-- Un fichier servant de visualisation des résultats obtenus.
+This repository contains everything you need to dive into the project:
 
-Les modèles retenus sont enregistrés dans le dossier `models`.
+- A project report in PDF format
+- Implementation notebooks, with each section (Shallow Network, Deep Network and CNN with transfer learning) in its own file for easy exploration
+- A results visualization file to quickly review the outcomes
 
-Le fichier `data` contient les fichiers JSON avec le résultat des différents entraînements. 
+Pre-trained models are saved in the models folder, and the data folder holds JSON files with training results for reference.
+
+_Please note that this work is part of my curriculum in machine learning._
